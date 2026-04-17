@@ -11,5 +11,5 @@ The healthcare industry faces huge losses due to the mismanagement of insurance 
 
 ## Our Reference Research Report:
 <a href="https://github.com/RohithKumar086/Healthcare-Fraud-Detection-using-ML/blob/main/Report/Healthcare%20Fraud%20detection%20report%20.pdf" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg?raw=true" width="60" height="60"/>
+    <img src="https://github.com/RohithKumar086/Healthcare-Fraud-Detection-using-ML/blob/main/Report/pdfdownload.png" width="90" height="90" />
   </a>
