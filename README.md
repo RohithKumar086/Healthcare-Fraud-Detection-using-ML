@@ -10,6 +10,6 @@ The healthcare industry faces huge losses due to the mismanagement of insurance 
  **Time-Series Anomaly Transformer:** Converts patient service transactions into time-series sequences. The transformer uses both "normal" and "anomaly" attention mechanisms to learn typical data distributions and highlight deviating timestamps.<br>
 
 ## Our Reference Research Report:
-<a href="" target="_blank">
+<a href="https://github.com/RohithKumar086/Healthcare-Fraud-Detection-using-ML/blob/main/Report/Healthcare%20Fraud%20detection%20report%20.pdf" target="_blank">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg?raw=true" width="60" height="60"/>
   </a>
